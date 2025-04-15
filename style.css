@@ -1,6 +1,32 @@
 body {
     background-color: white;
-}
-h1 {
+    }
+    
+    header {
     background-color: grey;
-}
+    padding: 10px 20px;
+    }
+    
+    .header {
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    .boton1 {
+    background-color: orange;
+    height: 65px;
+    width: 200px;
+    }
+    
+    .boton2 {
+    background-color: white;
+    height: 15px;
+    width: 90px;
+    }
+    
+    .boton3 {
+    background-color: orange;
+    height: 15px;
+    width: 90px;
+    }
+    
