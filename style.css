@@ -10,11 +10,12 @@ body {
     .header {
     display: flex;
     justify-content: space-between;
+    padding-top: 20px; 
     }
     
     .boton1 {
     background-color: orange;
-    height: 65px;
+    height: 70px;
     width: 200px;
     }
     
@@ -29,4 +30,20 @@ body {
     height: 15px;
     width: 90px;
     }
-    
+
+    nav {
+        background-color: gainsboro;
+        padding: 20px 20px;
+    }
+
+    .button4 {
+        background-color: darkslategrey;
+        height: 30px;
+        width: 120px;
+    }
+
+    .button5 {
+        height: full;
+        width: 30px;
+        background-color: darkslategrey;
+    }
